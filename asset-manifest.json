@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.1c16a491.css",
+    "main.js": "/portfolio/static/js/main.3fca9a87.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/vig.png": "/portfolio/static/media/vig.1790ac784ace22828b1c.png",
+    "static/media/badge.png": "/portfolio/static/media/badge.f63bc40ea01f71e5af53.png",
+    "static/media/datascience.png": "/portfolio/static/media/datascience.f6a6816cb6d61618035c.png",
+    "index.html": "/portfolio/index.html",
+    "main.1c16a491.css.map": "/portfolio/static/css/main.1c16a491.css.map",
+    "main.3fca9a87.js.map": "/portfolio/static/js/main.3fca9a87.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c16a491.css",
+    "static/js/main.3fca9a87.js"
+  ]
+}
