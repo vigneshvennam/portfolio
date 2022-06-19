@@ -51,7 +51,7 @@
         transform: translateY(-200px);
     }
 }
-.i-title-item,i-title-item1{
+.i-title-item,.i-title-item1{
     height: 50px;
     font-size: 30px;
     font-weight: bold;
