@@ -1,0 +1,64 @@
+.aboutme{
+    max-width:1000px;
+    margin: 0 auto;
+    container-type: inline-size;
+    min-height: 100px;
+    background-color: lightblue ;
+    padding: 0px 40px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.container{
+    container-type: inline-size;
+}
+
+/*.layout{
+    border:8px dashed gold;
+    min-height: 100px;
+*/
+.h1{
+    font-family: Times New Roman;
+}
+.photo{
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;
+    min-height: 25px;
+    height: 200px;
+}
+
+/*.card h1{
+    border:8px dashed red;
+    min-height: 100px;
+*/
+
+
+
+/*main,article{
+    border:8px dashed blue;
+    min-height: 100px;
+*/
+
+
+@conatiner(min-width:36rem)
+{
+    .card{
+        display:grid;
+        grid-template-columns:1fr 3fr
+    }
+}
+
+@container(min-width:900px)
+{
+    .layout{
+        display:grid;
+        grid-template-columns:2fr 1fr;
+        grid-gap:1rem;
+    }
+}
+
+.card p,li{
+    font-family: Times New Roman;
+    font-size: larger;
+}
